@@ -23,8 +23,7 @@ full time ever since for Inetum  Norte, while also making cool side projects!
   <a href="https://dangoesports.com/">Live website</a><br><br>
 
 ## 📊 GitHub Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rubeniriso&repo=github-readme-stats)](https://github.com/rubeniriso/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubeniriso&layout=donut)]
 ## 🔧 Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NEXT.JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
