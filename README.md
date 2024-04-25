@@ -15,8 +15,8 @@ full time ever since for Inetum  Norte, while also making cool side projects!
   If it's anything nerdy, I probably had something to do with it! 
 - Workout tracker - Web app to organize your routines, with aims to become a social media platform for fitness 🏋️‍♂️<br>
   NextJS && TailwindsCSS && Shadcn && ExpressJS && PostgreSQL <br>
-  Demo: <a href="/">Coming soon!</a><br><br>
-
+  Demo: <a href="/">Coming soon!</a><br>
+  
 ## 📦 Recent projects I've worked on
 - Dango Esports Website - Official website for my esports club Dango Esports 🎮🍡<br>
   NextJS && TailwindsCSS && GraphQL && KeystoneJS && MongoDB <br>
