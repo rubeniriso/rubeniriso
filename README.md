@@ -4,10 +4,10 @@
 
 ## 🧑 About me
 
-I'm a Junior Full-Stack Web Developer, infinitely curious and constantly looking for chances to upgrade my toolkit! 
+I'm a Junior Full-Stack Web Developer, infinitely curious and constantly looking for chances to upgrade my toolkit! I finished my computer science studies in 2023 and have been working
+full time ever since for Inetum  Norte, while also making cool side projects!
 
 ## 👨‍💻 Currently working on...
-
 - Full stack developer for Inetum, currently making several microservices for Navarre's public administration. Full of fun things, like
   data synchronization, integrations with other microservices and much more!
 - CTO for Dango Esports 🍡, a company I started with two friends in 2022 that went from amateur to professional in League of Legends' spanish circuit
@@ -22,11 +22,10 @@ I'm a Junior Full-Stack Web Developer, infinitely curious and constantly looking
   NextJS && TailwindsCSS && GraphQL && KeystoneJS && MongoDB <br>
   <a href="https://dangoesports.com/">Live website</a><br><br>
 
-  
 ## 📊 GitHub Stats
 
 ![](https://raw.githubusercontent.com/csriso/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/csriso/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=rubeniriso&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)]
 
 ## 🔧 Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
