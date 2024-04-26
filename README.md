@@ -22,7 +22,9 @@ full time ever since for Inetum  Norte, while also making cool side projects!
   NextJS && TailwindsCSS && GraphQL && KeystoneJS && MongoDB <br>
   <a href="https://dangoesports.com/">Live website</a><br><br>
 ## 📖 Currently learning...
-- Rust <br><br>
+- Rust ⚙️ <br>
+- Vim 🤓
+  
 ## 📊 GitHub Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=rubeniriso&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubeniriso&layout=donut&theme=synthwave)
