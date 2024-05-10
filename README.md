@@ -23,6 +23,7 @@ full time ever since for Inetum  Norte, while also making cool side projects!
   <a href="https://dangoesports.com/">Live website</a><br><br>
 ## 📖 Currently learning...
 - Rust ⚙️ <br>
+- Golang ⏩
 - Vim 🤓
   
 ## 📊 GitHub Stats
