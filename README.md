@@ -1,6 +1,6 @@
 # Hello there, I'm Rubén! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://github.com/rubeniriso/rubeniriso/blob/main/BANNERGENERICO.png?raw=true)
+![](https://github.com/rubeniriso/rubeniriso/blob/main/BANNERGENERICO2.png?raw=true)
 
 ## 🧑 About me
 
