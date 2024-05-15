@@ -4,7 +4,7 @@
 
 ## 🧑 About me
 
-I'm a Junior Full-Stack Web Developer, infinitely curious and constantly looking for chances to upgrade my toolkit! I finished my computer science studies in 2023 and have been working
+I'm an infinitely curious Software Engineer, constantly looking for chances to upgrade my toolkit! I finished my computer science studies in 2023 and have been working
 full time ever since for Inetum  Norte, while also making cool side projects!
 
 ## 👨‍💻 Currently working on...
