@@ -15,8 +15,8 @@ full time ever since for Inetum  Norte, while also making cool side projects!
   If it's anything nerdy, I probably had something to do with it! 
 - Workout tracker - Web app to organize your routines, with aims to become a social media platform for fitness 🏋️‍♂️<br>
   NextJS && TailwindsCSS && Shadcn && ExpressJS && PostgreSQL <br>
-  Demo: <a href="/">Coming soon!</a><br>
-- My own portfolio - A web application with a <a href="https://github.com/rubeniriso/portfolio-backend">backend</a> built in Go following Anthony GG's tutorial (https://youtu.be/pwZuNmAzaH8?list=PL0xRBLFXXsP6nudFDqMXzrvQCZrxSOm-2), a frontend (which I haven't started yet), and a custom-made CMS <a href="https://github.com/rubeniriso/portfolio-cms-frontend">frontend</a> made with Svelte that will help me update the portfolio!
+  Demo: Coming soon!<br>
+- My own portfolio - A web application with a <a href="https://github.com/rubeniriso/portfolio-backend">backend</a> built in Go following <a href="https://youtu.be/pwZuNmAzaH8?list=PL0xRBLFXXsP6nudFDqMXzrvQCZrxSOm-2">Anthony GG's awesome tutorial</a>, a frontend (which I haven't started yet), and a custom-made CMS <a href="https://github.com/rubeniriso/portfolio-cms-frontend">frontend</a> made with Svelte that will help me update the portfolio!
 
   
 ## 📦 Recent projects I've worked on
