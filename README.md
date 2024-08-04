@@ -13,10 +13,10 @@ full time ever since for Inetum  Norte, while also making cool side projects!
 - CTO for Dango Esports 🍡, a company I started with two friends in 2022 that went from amateur to professional in League of Legends' spanish circuit
   in less than a year and a half! Among my tasks, I made the website and deployed it using a VPS with Nginx, I made trailers and presentations, music, and much more.
   If it's anything nerdy, I probably had something to do with it! 
-- Workout tracker - Web app to organize your routines, with aims to become a social media platform for fitness 🏋️‍♂️<br>
+- Workout tracker - [Work in progress 🔨] - Web app to organize your workout routines, with aims to become a social media platform for fitness 🏋️‍♂️<br>
   NextJS && TailwindsCSS && Shadcn && ExpressJS && PostgreSQL <br>
   Demo: Coming soon!<br>
-- My own portfolio - A web application with a <a href="https://github.com/rubeniriso/portfolio-backend">backend</a> built in Go following <a href="https://youtu.be/pwZuNmAzaH8?list=PL0xRBLFXXsP6nudFDqMXzrvQCZrxSOm-2">Anthony GG's awesome tutorial</a>, a frontend (which I haven't started yet), and a custom-made CMS <a href="https://github.com/rubeniriso/portfolio-cms-frontend">frontend</a> made with Svelte that will help me update the portfolio!
+- My own portfolio - [Work in progress 🔨] - A HTML + JS canvas + CSS videogame showcasing my projects, socials and more! You can check it out <a href="https://rubeniriso.github.io">here</a>!
 
   
 ## 📦 Recent projects I've worked on
