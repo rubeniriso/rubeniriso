@@ -1,31 +1,102 @@
 # Hello there, I'm Rubén! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://github.com/rubeniriso/rubeniriso/blob/main/BANNERGENERICO2.png?raw=true)
+<a href="https://ruben.iriso.dev">
+  <img src="https://github.com/rubeniriso/rubeniriso/blob/main/BANNERGENERICO2.png?raw=true" alt="Rubén Iriso Banner">
+</a>
 
-## 🧑 About me
+## 🧑‍💻 About me
 
-I'm an infinitely curious Software Engineer, constantly looking for chances to upgrade my toolkit! I finished my computer science studies in 2023 and have been working
-full time ever since for Inetum  Norte, while also making cool side projects!
+I'm a Software Engineer who loves learning, building, and constantly expanding my toolkit.
 
+I graduated with a degree in Computer Science in 2023 and have been working full-time as a Software Engineer at Inetum Norte since then, developing software for public administration and working on microservices, integrations, data synchronization, and distributed systems.
+
+I've also had the opportunity to work in Ireland as a **Generative AI Annotator**, helping improve AI systems while working in an international environment and using English on a daily basis. It was my first professional experience in Ireland and an important step in both my technical and personal growth.
+
+I'm particularly interested in backend development, software architecture, distributed systems, AI, and building scalable software. I enjoy understanding how things work under the hood and turning ideas into real, production-ready projects.
+
+Outside of work, I enjoy building side projects, experimenting with new technologies, and creating things simply because I'm curious to see how they work.
+
+🌐 **Portfolio:** <a href="https://ruben.iriso.dev">ruben.iriso.dev</a>
+
+🚀 **Open to new projects, collaborations, and interesting technical challenges.**
 ## 👨‍💻 Currently working on...
-- Full stack developer for Inetum, currently making several microservices for Navarre's public administration. Full of fun things, like
-  data synchronization, integrations with other microservices and much more!
-- CTO for Dango Esports 🍡, a company I started with two friends in 2022 that went from amateur to professional in League of Legends' spanish circuit
-  in less than a year and a half! Among my tasks, I made the website and deployed it using a VPS with Nginx, I made trailers and presentations, music, and much more.
-  If it's anything nerdy, I probably had something to do with it! 
-- Workout tracker - [Work in progress 🔨] - Web app to organize your workout routines, with aims to become a social media platform for fitness 🏋️‍♂️<br>
-  NextJS && TailwindsCSS && Shadcn && ExpressJS && PostgreSQL <br>
-  Demo: Coming soon!<br>
-- My own portfolio - [Work in progress 🔨] - A HTML + JS canvas + CSS videogame showcasing my projects, socials and more! You can check it out <a href="https://rubeniriso.github.io">here</a>!
 
+- **Leaquify 🚀** — A web platform designed to connect content creators with potential customers and help creators turn their audience into business opportunities.
+
+  Built with a strong focus on **SEO optimization**, discoverability, and conversion.
+
+  `React` · `TypeScript` · `Golang` · `SEO` · `CI/CD`
   
+## 👨‍💻 Work experience...
+
+- **Software Engineer at Inetum Norte** — Working as a full-stack developer on several microservices for Navarra's public administration.
+  - Designing and developing microservices
+  - Data synchronization between different systems
+  - Integrations with other microservices and external services
+  - Working with APIs and distributed systems
+  - Building and maintaining production software
+
+- **Generative AI Annotator 🇮🇪** — My first professional experience in Ireland, working with Generative AI systems in an international environment.
+  - Evaluating and annotating AI-generated content
+  - Helping improve the quality and reliability of AI systems
+  - Working in English on a daily basis
+  - Gaining experience in the rapidly evolving field of Generative AI
+
+- **CTO at Dango Esports 🍡** — A company I started with two friends in 2022 that went from amateur to professional competition in the Spanish League of Legends circuit in less than a year and a half.
+  - Built and deployed the organization's website
+  - Managed VPS infrastructure and Nginx
+  - Worked on backend and frontend development
+  - Created trailers, presentations, music, and other technical/media content
+  - Basically, if it was nerdy, I probably had something to do with it!
+
 ## 📦 Recent projects I've worked on
-- Dango Esports Website - Official website for my esports club Dango Esports 🎮🍡<br>
-  NextJS && TailwindsCSS && GraphQL && KeystoneJS && MongoDB <br>
-  <a href="https://dangoesports.com/">Live website</a><br><br>
+
+- **Dango Esports Website 🎮🍡** — Official website for my esports organization.
+
+  `Next.js` · `Tailwind CSS` · `GraphQL` · `KeystoneJS` · `MongoDB`
+
+  <a href="https://dangoesports.com/">Live website → dangoesports.com</a>
+
+  - **Portfolio 🌐** — A simple personal portfolio focused on showcasing my experience, projects, and technical skills.
+
+  Built with **React + TypeScript** for the frontend and **Golang** for the backend.
+
+  Developed using **Cursor + Grok** and deployed on a VPS with a fully automated **CI/CD pipeline using GitHub Actions**.
+
+  <a href="https://ruben.iriso.dev">Check it out → ruben.iriso.dev</a>
+
 ## 📖 Currently learning...
-- Golang ⏩
-- Vim 🤓
+
+- **Go (Golang)** ⏩
+- Software architecture and scalable systems
+- Data structures & algorithms
+- System design
+- Generative AI
+- Cloud infrastructure and DevOps
+
+## 🎯 Career interests
+
+I'm particularly interested in opportunities where I can work on:
+
+- Backend and distributed systems
+- Microservices and APIs
+- Cloud infrastructure
+- Scalable software
+- Software architecture
+- Generative AI
+- Data-intensive systems
+- Developer tooling
+- High-impact engineering problems
+
+I'm always open to **new projects, collaborations, and interesting technical challenges**.
+
+---
+
+<p align="center">
+  <a href="https://ruben.iriso.dev">
+    <img src="https://img.shields.io/badge/Portfolio-ruben.iriso.dev-blue?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
   
 ## 📊 GitHub Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=rubeniriso&show_icons=true&theme=synthwave)
