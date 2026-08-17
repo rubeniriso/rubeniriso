@@ -57,7 +57,7 @@ Outside of work, I enjoy building side projects, experimenting with new technolo
 
   <a href="https://dangoesports.com/">Live website → dangoesports.com</a>
 
-  - **Portfolio 🌐** — A simple personal portfolio focused on showcasing my experience, projects, and technical skills.
+- **Portfolio 🌐** — A simple personal portfolio focused on showcasing my experience, projects, and technical skills.
 
   Built with **React + TypeScript** for the frontend and **Golang** for the backend.
 
