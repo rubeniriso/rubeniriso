@@ -20,6 +20,11 @@ Outside of work, I enjoy building side projects, experimenting with new technolo
 
 🚀 **Open to new projects, collaborations, and interesting technical challenges.**
 ## 👨‍💻 Currently working on...
+- **Kangym 🇯🇵** — An app to kickstart a Japanese learner's journey, using the full power of SRS and mnemonics. Beta is now live at <a href="https://kangym.com">kangym.com</a>
+  
+  
+  `Astro` · `React` · `TypeScript` · `Golang` · `SEO` · `CI/CD` · `Cursor` · `Grok` · `Claude`
+
 
 - **Leaquify 🚀** — A web platform designed to connect content creators with potential customers and help creators turn their audience into business opportunities.
 
